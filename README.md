@@ -5,5 +5,5 @@ This project base on [Batch-GUI-Button](https://github.com/Psi505/Batch-GUI-Butt
 
 ![guistartmenucapture](https://user-images.githubusercontent.com/92847004/148212792-9f1ffacc-d718-45ba-a2cb-1f5cf3479f55.PNG)
 
-(It looks a little bit "not GUI" because the graphic have some batbox I think 😱)
+(It looks a little bit "not GUI" because the batbox have some glitches with the graphic I think 😱)
 
